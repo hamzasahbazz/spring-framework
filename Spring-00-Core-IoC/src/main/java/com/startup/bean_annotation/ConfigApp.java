@@ -9,7 +9,7 @@ public class ConfigApp {
     FullTimeMentor fullTimeMentor(){
         return new FullTimeMentor();
     }
-    
+
     //@Bean(name="p1")
     @Bean
     @Primary
